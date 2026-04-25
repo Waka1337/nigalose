@@ -1,1 +1,7 @@
 # nigalose
+
+Payload for NL Launcher.
+
+- File: `payload.zip`
+- Size: `61919762` bytes
+- SHA256: `CED4691E061D95A84CAE2262838F57C208D361BFA5B08F3BB21B9B92B9EF6464`
