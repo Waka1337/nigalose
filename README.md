@@ -4,12 +4,12 @@ Payload for NL Launcher.
 
 ## Changelog
 
-- Payload downloads directly from this repository, not from Releases.
-- Launcher reads this README as the changelog.
-- Launcher shows the date of the latest GitHub commit.
+- Payload скачивается напрямую из этого репозитория, без GitHub Releases.
+- Этот README используется как changelog в лаунчере.
+- Дата в лаунчере берётся из последнего коммита.
 
 ## Payload
 
 - File: `payload.zip`
-- Size: `61919762` bytes
-- SHA256: `CED4691E061D95A84CAE2262838F57C208D361BFA5B08F3BB21B9B92B9EF6464`
+- Size: `61919759` bytes
+- SHA256: `58AAAD8056D1BEADAF376C9DDA1B6BEC38839A147F1A893D5D7ABA822D3FDE2A`
